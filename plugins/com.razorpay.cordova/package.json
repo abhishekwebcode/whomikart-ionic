@@ -1,0 +1,57 @@
+{
+  "_from": "com.razorpay.cordova@^1.3.10",
+  "_id": "com.razorpay.cordova@1.4.1",
+  "_inBundle": false,
+  "_integrity": "sha512-AxBX1VqKBQWVT2qlbUX2yVpWOK9cZ/WpLz5leRe7hhlRL4dohO1IyZIbAzugx+7Xc8L1046TgZ2gL83Dag1ZDQ==",
+  "_location": "/com.razorpay.cordova",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "com.razorpay.cordova@^1.3.10",
+    "name": "com.razorpay.cordova",
+    "escapedName": "com.razorpay.cordova",
+    "rawSpec": "^1.3.10",
+    "saveSpec": null,
+    "fetchSpec": "^1.3.10"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/com.razorpay.cordova/-/com.razorpay.cordova-1.4.1.tgz",
+  "_shasum": "d71bf1c403bb370aa8e1f0f556705f095dc3df84",
+  "_spec": "com.razorpay.cordova@^1.3.10",
+  "_where": "/Users/abhishekmathur/Downloads/rupeshshetty-whomikart-4e87a0e78996",
+  "author": {
+    "name": "Razorpay Developers",
+    "email": "developers@razorpay.com",
+    "url": "https://razorpay.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/razorpay/razorpay-cordova/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cordova/Phonegap bindings for Razorpay's Mobile SDKs",
+  "homepage": "https://github.com/razorpay/razorpay-cordova#readme",
+  "keywords": [
+    "razorpay",
+    "ecosystem:cordova",
+    "cordova",
+    "phonegap",
+    "ionic",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser"
+  ],
+  "license": "ISC",
+  "main": "Readme.md",
+  "name": "com.razorpay.cordova",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razorpay/razorpay-cordova.git"
+  },
+  "scripts": {},
+  "version": "1.4.1"
+}
